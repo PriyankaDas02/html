@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Background-image</title>
+        <style>
+            img
+            {
+                height: 500px;
+                width: 790px;
+                opacity: 0.5px;
+            }
+        </style>
+    </head>
+    <body>
+        <div style="border: solid 2px black;height: 770px;width: 100%;background-color: aqua;">
+        <div style="background-color: bisque;border: 2px solid black;
+        height: 500px;width: 50%;margin: 150px;margin-left: 350px;">
+        <img src="D:\Priyanka\pictur\jar.jpg"></div>
+        </div>
+    </body>
+</html>
