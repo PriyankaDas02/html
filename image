@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<HTML>
+    <HEAD>
+        <TITLE>image</TITLE>
+    </HEAD>
+    <body>
+        <div style="border: solid 1px black;width: 99%;height: 750px;background-color:rgb(93, 93, 139);">
+            <div style="border:solid 1px black; width: 30%;height:400px;margin-top: 100px;margin-left: 500px; ">
+            </div></div>
+    </body>
+</HTML>
